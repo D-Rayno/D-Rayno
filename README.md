@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rayan Rezougui 👋</h1>
+<h1 align="center">Hi, I'm Rayan Rezougui</h1>
 
 <p align="center">
   <strong>Full-Stack Engineer · Distributed & Event-Driven Systems</strong><br />
@@ -11,30 +11,30 @@
   <a href="https://github.com/D-Rayno"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-D--Rayno-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
-## 🧭 What I build
+## What I build
 
 I work at the intersection of product engineering and system design. My focus is turning real operational needs into maintainable, production-ready software: responsive interfaces, secure APIs, real-time workflows, and services that can scale.
 
-- **🖥️ Full-stack products:** TypeScript/Node.js and PHP/Laravel back ends with React, Next.js, Vue.js, and Nuxt front ends.
-- **⚡ Distributed systems:** Microservices, event-driven workflows, Kafka, Redis caching, REST/GraphQL APIs, and WebSockets.
-- **📱 Cross-platform delivery:** Web, mobile, and desktop apps with React Native, Ionic, Tauri, and Electron.
-- **🚀 Production engineering:** Docker, GitHub Actions, CI/CD, GitFlow, Bash automation, monitoring, and reliable deployments.
+- **Full-stack products:** TypeScript/Node.js and PHP/Laravel back ends with React, Next.js, Vue.js, and Nuxt front ends.
+- **Distributed systems:** Microservices, event-driven workflows, Kafka, Redis caching, REST/GraphQL APIs, and WebSockets.
+- **Cross-platform delivery:** Web, mobile, and desktop apps with React Native, Ionic, Tauri, and Electron.
+- **Production engineering:** Docker, GitHub Actions, CI/CD, GitFlow, Bash automation, monitoring, and reliable deployments.
 
-## ✨ Selected work
+## Selected work
 
-### 🏢 Production business platforms
+### Production business platforms
 
 Delivered production business systems end to end - from CRM design through deployment - with workflows for inventory, invoicing, traceability, and reporting. The work combined practical operations knowledge with automated routines, CI/CD, and reliable deployment practices.
 
-### ⚡ E-commerce microservices & Kafka
+### E-commerce microservices & Kafka
 
 A distributed e-commerce architecture using a Kafka event bus, multi-level Redis caching, and GitHub Actions CI/CD. This project reflects the kind of systems work I enjoy most: clear service boundaries, asynchronous workflows, and operational reliability.
 
-### 🧩 `mfe-forge` - Micro Frontend tooling
+### `mfe-forge` - Micro Frontend tooling
 
 An npm CLI package that streamlines Micro Frontend setup and management with React, Vite, and Module Federation. It grew out of hands-on micro-frontend work, reducing repetitive configuration and speeding up federated application bootstrapping.
 
-## 🛠️ Core stack
+## Core stack
 
 **Languages**
 
@@ -70,15 +70,15 @@ An npm CLI package that streamlines Micro Frontend setup and management with Rea
   <img alt="GitHub Actions" title="GitHub Actions" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
 </p>
 
-**📐 System design:** Microservices · Micro Frontends · Event-Driven Architecture · REST · WebSockets · CI/CD
+**System design:** Microservices · Micro Frontends · Event-Driven Architecture · REST · WebSockets · CI/CD
 
-## 🎓 Beyond the code
+## Beyond the code
 
 - Master's in Digital Transformation & Innovation (DTI), **top of class with distinction**.
 - Bachelor's in Information Systems, **top of class**.
 - Comfortable taking a product from discovery and architecture through implementation, deployment, and iteration.
 - Based in Batna, Algeria; communicate professionally in Arabic, English, and French.
 
-## 🤝 Let's build something useful
+## Let's build something useful
 
 If you are working on a product that needs thoughtful full-stack delivery or event-driven architecture, I would be glad to connect on [LinkedIn](https://www.linkedin.com/in/rezougui-rayan-zin-eddine).
